@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = edikgobjila01@gmail.com
+	name = Eduard Gobjila
